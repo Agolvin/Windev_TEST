@@ -30,6 +30,19 @@ window :
     code_elements :
      type_code : 2
      p_codes : []
+  -
+    name : LIB_Titre1
+    identifier : 0x297cafff00aa79a5
+    internal_properties : CAAAAAgAAAAICKrE19q7mSXXCRAFbs7Eh3/SKHAypVweYjzGbPhXSKW/+DBjiT+YOrpqIFGggshFMALVZVEp4P2L5ZNbI4P7Mb0Q/xq86vvqm9T4dlFVkaGhFp5OyJiAbFUzeGF9oc+bHuTHtMCdwaszt6wN286a0EjgCoUYXWvivaupvONrAkUiHRddZvNLqZW22zI42qYkBuD1tpcbunqCJ1HS+jakR1Y6PY/1oDeZ1wg7KrEOQRJOX+aCUIfBwFMrF2BMB8bKF79tylwgJUie3/BcySzD93WooW1dHAihZSUsZnOidWGkUecly0n/NenqITJh/OAmojsEoRBPR2CmGe0QiltuIJKCtLC5Am8qmSioMHRWWohK/nqeupiP6jY2lCALzsQhpLOJU31fVjZFOj2UGbqaePFjI5nZ3zpymLOY4X3orqwMHsffud33zXxOegMVlyQ6S80063XSFjqx/SbuaWwhErP/LE0v4O7CeMBr8ReohDP6jMsghcww84PUzw==
+    properties :
+     x : 540
+     y : 235
+     width : 152
+     height : 41
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
