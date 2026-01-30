@@ -30,19 +30,6 @@ window :
     code_elements :
      type_code : 2
      p_codes : []
-  -
-    name : LIB_Titre1
-    identifier : 0x297ca90202632d8c
-    internal_properties : CAAAAAgAAAA0i1XXSvwH7CVRq/J1R0IY0fiCyXvimL+DZ3nWlnRvwLmuIRwQYXwcSUUvEADe6E1LmCOvZcQ2kjiikq04Tw0rVXbS34BybkCd4fdWMbu2y0vpqDESR1b14W2AMo9r1XjSnpfjGvpdDiCbkR467jmKyTBiGFi2jysPWQsVZZhHwYODHmOLttrI+kolIKj2isXkumgc31QwB2823JY3TssT8/3O1dsji8rv4bnPGmfq8o2gA2dgev3isN7Tgqc83rlpPQPynQxnrhcVpZWr1qu8xSM+6DGvL0KIiFtMHnfL3NG7XaVmiOt2Sym4lGFtNcKfYkxzwJXhM5j9Cj6ucM6CrmHL/jbUzDyhDbiZKc+TuljpAqa+7N+uM1vpbTFbsdT+b7pjjAGcjdNZ9Bp+IcKHjtftp63bVl5n5WM6vz24ZSLCZdAB7dOQhhdDDOS5QOvKs2HtJHkYCXGZtkNPgBB7vCoN0s6IO5Lv9HC1ylQmR++f89fsn2Nn7M17gUddO9py2ywVqMwprh8O/ML3MDs4
-    properties :
-     x : 214
-     y : 173
-     width : 371
-     height : 41
-    type : 3
-    code_elements :
-     type_code : 2
-     p_codes : []
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
