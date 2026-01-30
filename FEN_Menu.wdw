@@ -23,7 +23,20 @@ window :
     internal_properties : CAAAAAgAAACRznXxUyM0HrfGA/UMVmtwoG+kG9uA2J0wXj/6HPhViM59iBfmLxxcDMaQIxcMTPMCzWpvNrKp7xEvTXejxkjy620jjLMSEuMJPyHIVZsUvnNpgyEgq4vpT7BbsO3O5W6FW35d2tLFlOemRBfNWCn07PPhrcMFBhEqS/PsozQlMpYdOvbNiVrpK8Lr4a6wNf4TUHT0f0PHvYNxnS3KZ+9OhFWZL00NJ6xDGD8l2YlOR2xaf24eY217TCvQ7P1qX9fPDdYNv+zi4fMSW5q2Q91i1WVMEvAZP3LG3LG5xdfd2vYAGcsbhWT3w0pjUn7kY8+6jTVMVlNKMWWaopgHWesMB2bnKcb3qXt27WwysTSNjOop3fxd6+SKlI+/l4G3MDqqZLlgbPPl3noK6sRTjBY6voNKWrhYNMLmzR+MPUHVAU3RQ/XhRzcFtxP19DT/a6WtDtfDR5JgiWVBoJehrZseQL7Gm+sD+sDkOIVqNHwfQZqXG0YD7N7lgg9yR33iPrB+vjfrF7+7wNoDtKTL1cAn7Hg=
     properties :
      x : 214
-     y : 79
+     y : 86
+     width : 371
+     height : 41
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Titre1
+    identifier : 0x297ca90202632d8c
+    internal_properties : CAAAAAgAAAA0i1XXSvwH7CVRq/J1R0IY0fiCyXvimL+DZ3nWlnRvwLmuIRwQYXwcSUUvEADe6E1LmCOvZcQ2kjiikq04Tw0rVXbS34BybkCd4fdWMbu2y0vpqDESR1b14W2AMo9r1XjSnpfjGvpdDiCbkR467jmKyTBiGFi2jysPWQsVZZhHwYODHmOLttrI+kolIKj2isXkumgc31QwB2823JY3TssT8/3O1dsji8rv4bnPGmfq8o2gA2dgev3isN7Tgqc83rlpPQPynQxnrhcVpZWr1qu8xSM+6DGvL0KIiFtMHnfL3NG7XaVmiOt2Sym4lGFtNcKfYkxzwJXhM5j9Cj6ucM6CrmHL/jbUzDyhDbiZKc+TuljpAqa+7N+uM1vpbTFbsdT+b7pjjAGcjdNZ9Bp+IcKHjtftp63bVl5n5WM6vz24ZSLCZdAB7dOQhhdDDOS5QOvKs2HtJHkYCXGZtkNPgBB7vCoN0s6IO5Lv9HC1ylQmR++f89fsn2Nn7M17gUddO9py2ywVqMwprh8O/ML3MDs4
+    properties :
+     x : 214
+     y : 173
      width : 371
      height : 41
     type : 3
