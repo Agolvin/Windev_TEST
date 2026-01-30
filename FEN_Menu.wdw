@@ -30,6 +30,19 @@ window :
     code_elements :
      type_code : 2
      p_codes : []
+  -
+    name : LIB_Titre1
+    identifier : 0x297cafdd0088f775
+    internal_properties : CAAAAAgAAADmiAKBm9XKciK/J8SavF7mtOo887BNPn+QGgMzNxuOzBWmiPpCuqPo+l/+YUdOJvdcZeEDvv7bmSZPKrunqgHeyat0qTLFpwTMLXO+CEp2Ak0sQbV6MSdC8tQbhotMEC3YldOi/EgrXVyXS+v76vHSQ3C6d+QWarTVOyyG8LnQUmN/apAWsHlTmMr5o2tLdXvcvUqhpt7SRnogc74aTKOy0pSxCEMBjTfEjm1MMQptAFz0hQdvxdte45V8ZlAMvRTdWLlj5mwcbQejrSY2y37tCtZiQaeHkKjkwulOROkA05pPIecjeWe5HDb6xYTjniIXKdn6naipxSfzqQHM4u24359SYkTJZv8Bmr7aAFCwxAEx7F7Gtnyfv1WSDqA/UlRCd2Vhi5nXOi9clr8cze6yNXBrFWG1Z34NUV2GywWuhE9S8bMhF9M59ZdQprl7s8Vmck3ZobNp8slSW1phWdoqOqW6B1tF/B7gFLbF341/JR9V05Q=
+    properties :
+     x : 49
+     y : 245
+     width : 79
+     height : 41
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
@@ -47,8 +60,6 @@ window :
    -
      code : |1+
       PROCEDURE MaFenêtre()
-      
-      //commentaire de test en branch main
    -
      type : 180
      enabled : false
