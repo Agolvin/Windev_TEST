@@ -31,9 +31,9 @@ window :
      type_code : 2
      p_codes : []
   -
-    name : LIB_Titre1
+    name : LIB_branch
     identifier : 0x297cafff00aa79a5
-    internal_properties : CAAAAAgAAAAICKrE19q7mSXXCRAFbs7Eh3/SKHAypVweYjzGbPhXSKW/+DBjiT+YOrpqIFGggshFMALVZVEp4P2L5ZNbI4P7Mb0Q/xq86vvqm9T4dlFVkaGhFp5OyJiAbFUzeGF9oc+bHuTHtMCdwaszt6wN286a0EjgCoUYXWvivaupvONrAkUiHRddZvNLqZW22zI42qYkBuD1tpcbunqCJ1HS+jakR1Y6PY/1oDeZ1wg7KrEOQRJOX+aCUIfBwFMrF2BMB8bKF79tylwgJUie3/BcySzD93WooW1dHAihZSUsZnOidWGkUecly0n/NenqITJh/OAmojsEoRBPR2CmGe0QiltuIJKCtLC5Am8qmSioMHRWWohK/nqeupiP6jY2lCALzsQhpLOJU31fVjZFOj2UGbqaePFjI5nZ3zpymLOY4X3orqwMHsffud33zXxOegMVlyQ6S80063XSFjqx/SbuaWwhErP/LE0v4O7CeMBr8ReohDP6jMsghcww84PUzw==
+    internal_properties : CAAAAAgAAADyFUatggOXLIHrB7OAC8YZ3k4H1z9QsN+Fq52k1TDti0vmWs6hckn6Qbmj8emoqR0HdGjw4RS0LhQWL9InBx0HAvvPHhJGywKk/GK3lpmAPAOnizjCvXaDlTjBll53ztOeReBdtCjv2XBJNeAS/TEjuMz5Rz/a9Yr9sKyd/T2iFGTAPDlehcxT2XuNFaLEBn+DsQ3a5OgGIgPjEIkCS3QfxemgcjQwI9mr0MusBP2cvXOZ7R/h1T63eOTgV71A/xezkRM+R0UbomkQNM7HddJXd0/jtL+2KOga4PjZhnHY/epaKv06Uhlz7zjOKiG+9r60QTQeJ1ZJtzHeFZR6YzY7xdIAQx/q4M1IPekKiLKORcY3JmJMSH1KGD0C55JLX+Gg4UQkNd5UqJAUdeCQepi6y8g6KXTQJk0xeJMBiUq0EONWQztMKMgpz9FEDkPVxB29CrTfw1HpWlSnHL+XN2K9LyrsWboQfZk83Z0/GpXaieoJ+qpsaduMxKe9vj/1j+d2
     properties :
      x : 540
      y : 235
